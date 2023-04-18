@@ -9,7 +9,7 @@ I'm a [programmer](https://en.wikipedia.org/wiki/Programmer). I love youtube and
 Here are some of my top skills:
 
 <div> 
-<div>
+<div style="display:flex">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
