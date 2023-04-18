@@ -28,3 +28,7 @@ Here are some of my top skills:
   
 </div> 
 
+---
+
+### :fire: My Stats :
+
