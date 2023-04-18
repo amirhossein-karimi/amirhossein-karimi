@@ -40,3 +40,6 @@ Here are some of my top skills:
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirhossein-karimi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
