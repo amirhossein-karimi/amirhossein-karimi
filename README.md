@@ -3,9 +3,12 @@
 I'm a [programmer](https://en.wikipedia.org/wiki/Programmer). I love youtube and chess.
 
 - 🌱 I’m currently learning [Principles of software engineering](https://en.wikipedia.org/wiki/Software_engineering)
-- 💬 Ask me about [Your Area of Expertise](https://en.wikipedia.org/wiki/Area_of_expertise)
-- 📫 How to reach me: [Your Email Address](mailto:youremail@yourdomain.com)
-- 😄 Pronouns: [Your Preferred Pronouns](https://www.mypronouns.org/)
-- ⚡ Fun fact: [Your Fun Fact](https://en.wikipedia.org/wiki/Fun_fact)
+- 💬 Ask me about web development, programming and software engineering.
 
 ## 🛠️ Skills
+Here are some of my top skills:
+
+- [Your Skill #1](https://www.yourskill1.com)
+- [Your Skill #2](https://www.yourskill2.com)
+- [Your Skill #3](https://www.yourskill3.com)
+- [Your Skill #4](https://www.yourskill4.com)
