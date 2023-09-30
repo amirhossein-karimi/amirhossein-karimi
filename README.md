@@ -33,6 +33,7 @@ Here are some of my top skills:
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="40" height="40" />
   
 </div> 
 
